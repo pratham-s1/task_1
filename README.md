@@ -1,1 +1,2 @@
-# task_1
+This was the first task of my internship, where I was introduced to the basics of HTML and CSS. I built a simple yet responsive landing page that includes a header with navigation links, a hero section with a heading, a short description, and a call-to-action button, followed by a footer with social media links. I used Flexbox for layout and media queries to make sure the page works well on different screen sizes. This task helped me understand how to structure a webpage and style it to be both clean and responsive, and it gave me my first hands-on experience with building real-world layouts.
+<img width="1350" alt="Screenshot 2025-06-23 at 9 17 23 PM" src="https://github.com/user-attachments/assets/a82fb203-0773-48e9-94f2-fba85ccc5e1f" />
